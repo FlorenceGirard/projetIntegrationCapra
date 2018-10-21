@@ -1,8 +1,0 @@
-prefix=/home/florence/Takin-2/Takin/devel
-
-Name: capra_imu
-Description: Description of capra_imu
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/florence/Takin-2/Takin/devel/lib 
-Requires: 

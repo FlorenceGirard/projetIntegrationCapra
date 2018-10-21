@@ -1,8 +1,0 @@
-prefix=/home/florence/Takin-2/Takin/devel
-
-Name: capra_motors
-Description: Description of capra_motors
-Version: 0.0.1
-Cflags: 
-Libs: -L/home/florence/Takin-2/Takin/devel/lib 
-Requires: 

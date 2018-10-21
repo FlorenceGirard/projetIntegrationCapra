@@ -1,8 +1,0 @@
-prefix=/home/florence/Takin-2/Takin/install
-
-Name: capra_navigation
-Description: Description of capra_navigation
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/florence/Takin-2/Takin/install/lib 
-Requires: 
